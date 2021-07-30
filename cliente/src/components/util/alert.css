@@ -1,0 +1,15 @@
+.custom-alert {
+    padding: 3px 7px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 10px;
+    text-align: center;
+    max-width: 295px;
+}
+  
+.custom-alert-error {
+    background-color: rgb(230, 78, 78);
+    color: white;
+}

@@ -1,0 +1,20 @@
+export const LOGIN_SUCCESSFUL = 'LOGIN_SUCCESSFUL';
+export const LOGOUT_SUCCESSFUL = 'LOGOUT_SUCCESSFUL';
+export const GET_USER = 'GET_USER';
+
+export const GET_LAST_TEN = 'GET_LAST_TEN';
+export const GET_RECORDS = 'GET_RECORDS';
+export const GET_RECORD = 'GET_RECORD';
+export const GET_INCOME_RECORDS = 'GET_INCOME_RECORDS';
+export const GET_EXPENSES_RECORDS = 'GET_EXPENSES_RECORDS';
+export const ADD_RECORD = 'ADD_RECORD';
+export const DELETE_RECORDS = 'DELETE_RECORDS';
+export const EDIT_RECORD = 'EDIT_RECORDS';
+
+export const GET_BALANCE = 'GET_BALANCE';
+
+
+
+
+
+
