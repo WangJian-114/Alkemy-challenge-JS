@@ -1,7 +1,7 @@
 # Alkemy-challenge-JS
 Alkemy challenge JS
 
-Proyecto persupuesto personal
+Proyecto presupuesto personal
 
 "npm install" en ambas carpetas para instalar dependencias necesarias
 
